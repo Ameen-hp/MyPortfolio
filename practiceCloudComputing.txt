@@ -1,0 +1,9 @@
+Capacity balancing 
+how balance capacity between 
+
+tadtional fixed cost computing model
+modern variable cost computing model
+
+determining the expted demmond
+analye the current load
+value of capacity load
